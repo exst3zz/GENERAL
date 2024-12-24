@@ -1,1 +1,7 @@
-slack vs code git github
+```
+slack
+vs code
+git
+github
+figma
+```

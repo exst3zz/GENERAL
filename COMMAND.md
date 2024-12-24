@@ -4,6 +4,7 @@
 $ ctrl + s (save)
 $ win + r (run)
 $ ctrl + ~ (terminal vs code)
+$ Ctrl+Shift+I (dev tools)
 ```
 
 # terminal:
